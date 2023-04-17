@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 10,
   "physical_status" : "Normal",
-  "diseases" : [ "Cardiac insufficiency; Atrial fibrillation; Arterial hypertension; Colonic neoplasm; Melanoma; Hypercholesterolemia; gonarthrosis" ],
+  "diseases" : [ "Heart failure;  Atrial fibrillation; Arterial hypertension; Colonic neoplasm; Melanoma; Hypercholesterolemia; Bilateral gonarthrosis" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-12 15:36:40",
   "sensors" : {

@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 8,
   "physical_status" : "Normal",
-  "diseases" : [ "Arterial hypertension; Coxarthrosis; Parkinson's; Fracture of the ischiopubic rami; Dyslipidemia" ],
+  "diseases" : [ "Arterial hypertension; Coxarthrosis; Parkinson's disease; Fracture of the ischiopubic rami; Dyslipidemia" ],
   "exercise_type" : "None",
   "start_time" : "2022-09-29 12:05:26",
   "sensors" : {

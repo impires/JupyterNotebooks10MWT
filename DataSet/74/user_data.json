@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 8,
   "physical_status" : "Normal",
-  "diseases" : [ "Diabetes; Cardiovascular; Parkinson's Spine problems; Cholesterol; Cardiac insufficiency; osteoarthritis" ],
+  "diseases" : [ "Diabetes; Parkinson's disease; Spine problems; Cholesterol; Heart failure; osteoarthritis" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-20 10:29:44",
   "sensors" : {

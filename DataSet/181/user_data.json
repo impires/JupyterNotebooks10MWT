@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 8,
   "physical_status" : "With energy",
-  "diseases" : [ "Stroke; Obstructive Sleep Apnea Syndrome; Heart failure; Dyslipidemia; Alzheimer's; Polypectomy; Diabetes" ],
+  "diseases" : [ "Stroke; Obstructive Sleep Apnea Syndrome; Heart failure; Dyslipidemia; Alzheimer; Polypectomy; Diabetes" ],
   "exercise_type" : "None",
   "start_time" : "2022-09-29 10:51:51",
   "sensors" : {

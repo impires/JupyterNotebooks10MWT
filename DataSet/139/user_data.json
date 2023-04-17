@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 7,
   "physical_status" : "With energy",
-  "diseases" : [ "Cardiac insufficiency" ],
+  "diseases" : [ "Heart failure" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-23 10:54:26",
   "sensors" : {

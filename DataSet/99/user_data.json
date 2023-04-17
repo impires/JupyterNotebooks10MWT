@@ -19,7 +19,7 @@
   "smoking_habits" : true,
   "sleeping_time_hours" : 8,
   "physical_status" : "Normal",
-  "diseases" : [ "Diabetes; Heart failure; High blood pressure" ],
+  "diseases" : [ "Diabetes; Heart failure; Arterial hypertension" ],
   "exercise_type" : "None",
   "start_time" : "2022-09-20 14:47:07",
   "sensors" : {

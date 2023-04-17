@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 9,
   "physical_status" : "Normal",
-  "diseases" : [ "Atrial fibrillation; Hypertensive Congestive Heart Failure; Arterial hypertension; Dyslipidemia; Asthma; Parkinson's; Epilepsy; Parietal Meningioma; Hip Prosthesis; Diabetes; urosepsis" ],
+  "diseases" : [ "Atrial fibrillation; Hypertensive Congestive Heart Failure; Arterial hypertension; Dyslipidemia; Asthma; Parkinson's disease; Epilepsy; Parietal Meningioma; Hip Prosthesis; Diabetes; urosepsis" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-12 15:17:42",
   "sensors" : {

@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 9,
   "physical_status" : "Normal",
-  "diseases" : [ "Arterial hypertension; Dizziness Syndrome; Insanity; Perceptual hypoacusis; Discopathy; Dorsal Spondylosis; Coxarthrosis; Left rhizarthrosis; Bilateral Omarthrosis;\nBilateral gonarthrosis" ],
+  "diseases" : [ "Arterial hypertension; Dizziness Syndrome; Insanity; Perceptual hypoacusis; Discopathy; Dorsal Spondylosis; Coxarthrosis; Left rhizarthrosis; Bilateral Omarthrosis; Bilateral gonarthrosis" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-12 11:54:39",
   "sensors" : {

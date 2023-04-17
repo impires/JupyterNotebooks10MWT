@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 9,
   "physical_status" : "Normal",
-  "diseases" : [ "Arterial hypertension; Diverticular disease; Cardiac insufficiency; Cardiomyopathy; Right Gonarthrosis; Anticoagulated; Obesity; Ischemic Heart Disease; allergic rhinitis; Dyslipidemia" ],
+  "diseases" : [ "Arterial hypertension; Diverticular disease; Heart failure; Cardiomyopathy; Right Gonarthrosis; Anticoagulated; Obesity; Ischemic Heart Disease; allergic rhinitis; Dyslipidemia" ],
   "exercise_type" : "None",
   "start_time" : "2022-09-12 12:09:59",
   "sensors" : {

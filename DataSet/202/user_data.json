@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 8,
   "physical_status" : "Normal",
-  "diseases" : [ "Alzheimer's; Arterial hypertension; Rheumatoid Arthritis" ],
+  "diseases" : [ "Alzheimer; Arterial hypertension; Rheumatoid Arthritis" ],
   "exercise_type" : "None",
   "start_time" : "2022-09-29 11:49:57",
   "sensors" : {

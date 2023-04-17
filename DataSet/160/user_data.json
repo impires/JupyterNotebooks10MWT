@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 7,
   "physical_status" : "Normal",
-  "diseases" : [ "Heart failure; Arterial hypertension; Chronic arterial disease; Gonarthrosis; Stroke" ],
+  "diseases" : [ "Heart failure; Arterial hypertension; Chronic arterial disease; Bilateral gonarthrosis; Stroke" ],
   "exercise_type" : "None",
   "start_time" : "2022-09-26 15:33:01",
   "sensors" : {

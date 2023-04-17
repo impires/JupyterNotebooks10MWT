@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 8,
   "physical_status" : "Normal",
-  "diseases" : [ "Arterial hypertension; Osteoporosis; Dyslipidemia; Parkinson's; Fracture; Lateral malleolus fracture" ],
+  "diseases" : [ "Arterial hypertension; Osteoporosis; Dyslipidemia; Parkinson's disease; Fracture; Lateral malleolus fracture" ],
   "exercise_type" : "None",
   "start_time" : "2022-09-29 10:42:50",
   "sensors" : {

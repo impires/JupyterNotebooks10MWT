@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 8,
   "physical_status" : "Normal",
-  "diseases" : [ "Cardiac insufficiency; Arterial hypertension; Sinusoidal Hypertrophy of the Prostate; Atrial fibrillation; pacemaker" ],
+  "diseases" : [ "Heart failure; Arterial hypertension; Sinusoidal Hypertrophy of the Prostate; Atrial fibrillation" ],
   "exercise_type" : "Team sports",
   "start_time" : "2022-09-13 15:37:07",
   "sensors" : {

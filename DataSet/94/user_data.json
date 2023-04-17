@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 9,
   "physical_status" : "Normal",
-  "diseases" : [ "Epilepsy; gastric ulcers; Arterial hypertension; Parkinson's; Heart failure; Depression" ],
+  "diseases" : [ "Epilepsy; gastric ulcers; Arterial hypertension; Parkinson's disease; Heart failure; Depression" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-20 14:34:50",
   "sensors" : {

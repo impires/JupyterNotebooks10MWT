@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 9,
   "physical_status" : "Normal",
-  "diseases" : [ "Insuficiência cardíaca; Epilepsia; Insuficiência renal" ],
+  "diseases" : [ "Heart Failure; Epilepsy; Kidney Disease" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-21 15:33:16",
   "sensors" : {
