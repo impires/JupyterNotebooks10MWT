@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 8,
   "physical_status" : "Normal",
-  "diseases" : [ "Hearing; Arterial hypertension" ],
+  "diseases" : [ "Hearing problems; Arterial hypertension" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-20 11:15:06",
   "sensors" : {

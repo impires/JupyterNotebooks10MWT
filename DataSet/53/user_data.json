@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 8,
   "physical_status" : "Normal",
-  "diseases" : [ "Stroke; Heart disease; Arterial hypertension; Atrial fibrillation; Diabetes" ],
+  "diseases" : [ "Stroke; Heart Failure; Arterial hypertension; Atrial fibrillation; Diabetes" ],
   "exercise_type" : "Individual sports",
   "start_time" : "2022-09-13 16:07:28",
   "sensors" : {
