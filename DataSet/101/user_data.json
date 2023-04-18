@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 5,
   "physical_status" : "Normal",
-  "diseases" : [ "Ménière's disease; Kidney disease" ],
+  "diseases" : [ "Meniere's Syndrome; Kidney disease" ],
   "exercise_type" : "None",
   "start_time" : "2022-09-20 15:24:13",
   "sensors" : {

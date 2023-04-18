@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 7,
   "physical_status" : "Normal",
-  "diseases" : [ "Diabetes; Ménière's Syndrome; Arterial hypertension" ],
+  "diseases" : [ "Diabetes; Meniere's Syndrome; Arterial hypertension" ],
   "exercise_type" : "None",
   "start_time" : "2022-09-20 14:42:07",
   "sensors" : {
