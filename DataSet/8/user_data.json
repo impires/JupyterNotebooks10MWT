@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 6,
   "physical_status" : "Normal",
-  "diseases" : [ "Endogenous Depression; occlusive peripheral artery disease; Intellectual Deficit; Atrioventricular block; Cataract; Obstructive Venous Alteration;" ],
+  "diseases" : [ "Endogenous Depression; occlusive peripheral artery disease; Intellectual Deficit; Atrioventricular block; Cataracts; Obstructive Venous Alteration" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-12 11:40:25",
   "sensors" : {

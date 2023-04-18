@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 7,
   "physical_status" : "Normal",
-  "diseases" : [ "Arterial hypertension; Dyslipidemia; Dizziness Syndrome;" ],
+  "diseases" : [ "Arterial hypertension; Dyslipidemia; Dizziness Syndrome" ],
   "exercise_type" : "Team sports",
   "start_time" : "2022-09-13 15:55:59",
   "sensors" : {

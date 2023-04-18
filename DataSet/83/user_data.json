@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 9,
   "physical_status" : "Normal",
-  "diseases" : [ "Anxiety; Rhinoconjunctivitis; Allergic rhinitis; Heart failure; Arterial Fiber; Arterial hypertensionAnxiety; Rhinoconjunctivitis; Allergic rhinitis; Heart failure; Arterial Fiber; Arterial hypertension" ],
+  "diseases" : [ "Anxiety; Rhinoconjunctivitis; Allergic rhinitis; Heart failure; Arterial Fiber; Arterial hypertension" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-20 14:43:36",
   "sensors" : {

@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 7,
   "physical_status" : "Normal",
-  "diseases" : [ "Prostate problems; Arterial sypertension" ],
+  "diseases" : [ "Prostate problems; Arterial Hypertension" ],
   "exercise_type" : "None",
   "start_time" : "2022-09-20 14:32:29",
   "sensors" : {

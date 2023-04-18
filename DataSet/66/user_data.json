@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 5,
   "physical_status" : "Normal",
-  "diseases" : [ "Arterial hypertension; Cholesterol;" ],
+  "diseases" : [ "Arterial hypertension; Cholesterol" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-20 10:57:35",
   "sensors" : {

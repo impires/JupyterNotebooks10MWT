@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 5,
   "physical_status" : "Normal",
-  "diseases" : [ "Osteoporosis " ],
+  "diseases" : [ "Osteoporosis" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-20 11:01:30",
   "sensors" : {

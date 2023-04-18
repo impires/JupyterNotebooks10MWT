@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 8,
   "physical_status" : "Normal",
-  "diseases" : [ "Arterial hypertension; Insanity; Dyslipidemia; Moderate Mitral Insufficiency; Intestinal bands;" ],
+  "diseases" : [ "Arterial hypertension; Insanity; Dyslipidemia; Moderate Mitral Insufficiency; Intestinal bands" ],
   "exercise_type" : "Walk",
   "start_time" : "2022-09-12 12:25:18",
   "sensors" : {
