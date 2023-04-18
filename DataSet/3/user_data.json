@@ -19,7 +19,7 @@
   "smoking_habits" : false,
   "sleeping_time_hours" : 9,
   "physical_status" : "Normal",
-  "diseases" : [ "Schizophrenia; Dyslipidemia; Diabetes; Chronic venous insufficiency; Obstructive Sleep Apnea Syndrome; insomnia; Morbid obesity; occlusive peripheral artery disease; ex-smoker" ],
+  "diseases" : [ "Schizophrenia; Dyslipidemia; Diabetes; Chronic venous insufficiency; Obstructive Sleep Apnea Syndrome; insomnia; Morbid obesity; occlusive peripheral arterial disease; ex-smoker" ],
   "exercise_type" : "Individual sports",
   "start_time" : "2022-09-12 11:24:06",
   "sensors" : {
