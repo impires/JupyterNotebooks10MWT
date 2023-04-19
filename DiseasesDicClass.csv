@@ -1,0 +1,173 @@
+Arterial Fiber;216;Cardiology
+Arterial Hypertension;104;Cardiology
+Atrial Fibrillation;176;Cardiology
+Atrioventricular Block;118;Cardiology
+Bifascicular Block;183;Cardiology
+Cardiac Arrhythmia;241;Cardiology
+Cardiomyopathy;143;Cardiology
+Chronic Arterial Disease;238;Cardiology
+Chronic Atrial Fibrillation;152;Cardiology
+Coronary Heart Disease;234;Cardiology
+Dilation Of The Left Auricle;159;Cardiology
+Heart Failure;142;Cardiology
+Hypertensive Congestive Heart Failure;177;Cardiology
+Hypertrophy Of The Interventricular Septum;160;Cardiology
+Ischemic Heart Disease;147;Cardiology
+Left Atrial Dilation;226;Cardiology
+Left Ventricular Hypertrophy;102;Cardiology
+Moderate Mitral Insufficiency;155;Cardiology
+Pacemaker;151;Cardiology
+Sinus Bradycardia;124;Cardiology
+Ventricular Fibrillation;158;Cardiology
+Dermatitis;244;Dermatology
+Herpes;270;Dermatology
+Psoriasis;201;Dermatology
+Cholesterol;210;Endocrinology
+Diabetes;103;Endocrinology
+Dyslipidemia;106;Endocrinology
+Hypercholesterolemia;189;Endocrinology
+Hyperthyroidism;224;Endocrinology
+Hypothyroidism;235;Endocrinology
+Modular Goiter;199;Endocrinology
+Morbid Obesity;110;Endocrinology
+Obesity;146;Endocrinology
+Thyroid Nodules;168;Endocrinology
+Barrett'S Esophagus;193;Gastroenterology
+Bulbar Ulcers;171;Gastroenterology
+Cholecystectomy;266;Gastroenterology
+Constipation;261;Gastroenterology
+Diarrhea;175;Gastroenterology
+Diverticular Disease;141;Gastroenterology
+Duodenal Ulcer;229;Gastroenterology
+Esophagitis;125;Gastroenterology
+Gastric Ulcers;219;Gastroenterology
+Gastritis;126;Gastroenterology
+Hemorrhoids;174;Gastroenterology
+Hiatus Hernia;192;Gastroenterology
+Intestinal Bands;156;Gastroenterology
+Polypectomy;257;Gastroenterology
+Post-Cholecystectomy Syndrome;185;Gastroenterology
+Ulcer;212;Gastroenterology
+Right Hemicolectomy;253;General Surgery
+Sigmoidectomy;195;General Surgery
+Supraumbilical Hernia;232;General Surgery
+Temporary Colostomy And Laparotomy;196;General Surgery
+Down's Syndrome;242;Genetics
+Anemia;207;Hematology
+Anticoagulated;145;Hematology
+Chronic Anemia;247;Hematology
+Deep Vein Thrombosis;223;Hematology
+Venous Thrombosis;227;Hematology
+Allergic Rhinitis;148;Immunology
+Rhinoconjunctivitis;215;Immunology
+Sequelae Of Peritoneal Tuberculosis;149;Infectious Diseases
+Chronic Kidney Disease;248;Nephrology
+Kidney Disease;221;Nephrology
+Primary Hyperuricemia;218;Nephrology
+Alzheimer;209;Neurology
+Asteoricospic Plaque In The Right Carotid Bulb;157;Neurology
+Cognitive Deficit;251;Neurology
+Confusion Syndrome;164;Neurology
+Deficit Of Verbal Expression;243;Neurology
+Dementia;269;Neurology
+Dizziness Syndrome;127;Neurology
+Ephatic Gnosis;246;Neurology
+Epilepsy;162;Neurology
+Intellectual Deficit;117;Neurology
+Ischemic Leukoencephalopathy;165;Neurology
+Ischemic Stroke;254;Neurology
+Parkinson'S Disease;179;Neurology
+Stroke;136;Neurology
+Stuttering;190;Neurology
+Tension Headaches;166;Neurology
+Transient Ischemic Attacks;236;Neurology
+Tremor;191;Neurology
+Vascular Dementia;163;Neurology
+Verteginous Syndrome;271;Neurology
+Vertigo Syndrome;225;Neurology
+Parietal Meningioma;180;Neurosurgery
+Vitamin A Deficiency;255;Nutrition
+Vitamin D Deficiency;268;Nutrition
+Basalioma;140;Oncology
+Colon Adenocarcinoma;186;Oncology
+Colonic Neoplasm;187;Oncology
+Hyperplasia;230;Oncology
+Lymphoma;262;Oncology
+Melanoma;188;Oncology
+Thyroid Follicular Tumor;259;Oncology
+Age-Related Macular Degeneration;138;Ophthalmology
+Blind On The Right;202;Ophthalmology
+Cataracts;119;Ophthalmology
+Glaucoma;228;Ophthalmology
+Bilateral Gonarthrosis;135;Orthopedics
+Bilateral Omarthrosis;134;Orthopedics
+Cervical Hernia;249;Orthopedics
+Cervical Spondylosis;245;Orthopedics
+Coxarthrosis;132;Orthopedics
+Discopathy;130;Orthopedics
+Distal Radio;184;Orthopedics
+Dorsal Spondylosis;131;Orthopedics
+Fracture Of The Ischiopubic Rami;273;Orthopedics
+Gonarthrosis;206;Orthopedics
+Hernia;200;Orthopedics
+Hip Amputation;231;Orthopedics
+Hip Prosthesis;181;Orthopedics
+Knee Prosthesis;194;Orthopedics
+Lateral Malleolus Fracture;256;Orthopedics
+Left Rhizarthrosis;133;Orthopedics
+Lumbar Hernia;239;Orthopedics
+Lumbar Spondylodiscoarthritis;208;Orthopedics
+Osteoarthritis;172;Orthopedics
+Osteopathic Dorsal Trauma;197;Orthopedics
+Right Gonarthrosis;144;Orthopedics
+Spine Problems;213;Orthopedics
+Wrist Osteoarthritis;260;Orthopedics
+Chronic Sinusitis;170;Otolaryngology
+Dacryocystorhinostomy;161;Otolaryngology
+Hearing Problems;211;Otolaryngology
+Meniere'S Syndrome;217;Otolaryngology
+Perceptual Hypoacusis;129;Otolaryngology
+Aggressiveness;114;Psychiatry
+Alcoholism;267;Psychiatry
+Anxiety;214;Psychiatry
+Bipolar Affective Disorder;264;Psychiatry
+Bipolar Disorder;258;Psychiatry
+Depression;205;Psychiatry
+Depressive Syndrome;101;Psychiatry
+Depressive-Anxious Syndrome;121;Psychiatry
+Endogenous Depression;116;Psychiatry
+Ethanolic Habits;203;Psychiatry
+Hallucinations;115;Psychiatry
+Hyperactivity;154;Psychiatry
+Insanity;128;Psychiatry
+Insomnia;109;Psychiatry
+Mental Disability;233;Psychiatry
+Neurotic Depression;169;Psychiatry
+Psychosis;113;Psychiatry
+Schizophrenia;105;Psychiatry
+Asthma;178;Pulmonology
+Asthmatic Bronchitis;167;Pulmonology
+Chronic Obstructive Pulmonary Disease;137;Pulmonology
+Ex-Smoker;112;Pulmonology
+Obstructive Sleep Apnea Syndrome;108;Pulmonology
+Pulmonary Arterial Hypertension;150;Pulmonology
+Pulmonary Edema;153;Pulmonology
+Respiratory Failure;237;Pulmonology
+Silicosis;265;Pulmonology
+Smoking;263;Pulmonology
+Tuberculosis;240;Pulmonology
+Osteopenia;173;Rheumatology
+Osteoporosis;122;Rheumatology
+Rheumatoid Arthritis;272;Rheumatology
+Benign Prostatic Hyperplasia;139;Urology
+Cystitis;250;Urology
+Prostate Problems;220;Urology
+Renal Lytrase;198;Urology
+Right Nephrectomy;252;Urology
+Sinusoidal Hypertrophy Of The Prostate;204;Urology
+Urosepsis;182;Urology
+Chronic Venous Insufficiency;107;Vascular Medicine
+Obstructive Venous Alteration;120;Vascular Medicine
+Occlusive Peripheral Arterial Disease;111;Vascular Medicine
+Varicose Veins;123;Vascular Medicine
+None;222;
