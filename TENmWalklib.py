@@ -2,6 +2,8 @@ import math
 import statistics as st
 import matplotlib.pyplot as plt
 
+plt.rcParams['text.usetex'] = True
+
 gravity_acceleration = 9.806
 
 def vect_length(vector):
@@ -139,6 +141,29 @@ def accelerometer(exp_data):
     axs[1].plot(Experiment_Time[Peeks_Loc[0]:Peeks_Loc[-1]+1], Speed)
     
     plt.show()
+    
+    fig, axs = plt.subplots(3,1,figsize=(16,24), gridspec_kw={'height_ratios': [1, 1, 1]})
+    
+    axs[0].plot(Experiment_Time, [value[0] for value in Corrected_Accel], color="b")
+    axs[0].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][0] for j in Peeks_Loc], color="b")
+    axs[0].set_xlabel('t / s', fontsize="18")
+    axs[0].set_ylabel('$a_{x} / \\textrm{ms}^{-1}$', fontsize="18")
+    axs[0].set_title('Acceleration in xx direction', size='24', color='k')
+    axs[1].plot(Experiment_Time, [value[1] for value in Corrected_Accel], color="r")
+    axs[1].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][1] for j in Peeks_Loc], color="r")
+    axs[1].set_title('Acceleration in yy direction', size='24', color='k')
+    axs[1].set_xlabel('t / s', size="18")
+    axs[1].set_ylabel('$a_{y} / \\textrm{ms}^{-1}$', fontsize="18")
+    axs[2].plot(Experiment_Time, [value[2] for value in Corrected_Accel], color="g")
+    axs[2].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][2] for j in Peeks_Loc], color="g")
+    axs[2].set_title('Acceleration in zz direction', size='24', color='k')
+    axs[2].set_xlabel('t / s', size="18")
+    axs[2].set_ylabel('$a_{z} / \\textrm{ms}^{-1}$', fontsize="18")
+    
+    plt.savefig('AccelComp.png')
+
+    plt.show()
+    
     
     # Mean_Acceleration = st.mean(Speed)
     # Mean_Speed = st.mean(Speed)
