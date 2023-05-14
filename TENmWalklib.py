@@ -186,11 +186,12 @@ def gyroscope(data):#, std_interval):
     if Experiment_Tt_Time > 10.0:
         Meter_Time = [Instant for Instant in Meter_Time if ((Instant - Meter_Time[0])*1.0e-3) > 10.0]
         First_Ten_Sec = len(AngVel) - len(Meter_Time)
+        Experiment_Time[:First_Ten_Sec] = []
         AngVel[:First_Ten_Sec] = []
         Ang[:First_Ten_Sec] = []
 
-    Experiment_Tt_Time = (Meter_Time[-1] - Meter_Time[0])*1.0e-3
-    Experiment_Time = [(Meter_Time[ii] - Meter_Time[0])*1e-3 for ii in range(len(Meter_Time))]
+    #Experiment_Tt_Time = (Meter_Time[-1] - Meter_Time[0])*1.0e-3
+    #Experiment_Time = [(Meter_Time[ii] - Meter_Time[0])*1e-3 for ii in range(len(Meter_Time))]
     
     fig, axs = plt.subplots(3,1,figsize=(16,24), gridspec_kw={'height_ratios': [1, 1, 1]})
     
@@ -271,8 +272,8 @@ def magnetometer(data):#, std_interval):
         Experiment_Time[:First_Ten_Sec] = []
         MagFld[:First_Ten_Sec] = []
 
-    Experiment_Tt_Time = (Meter_Time[-1] - Meter_Time[0])*1.0e-3
-    Experiment_Time = [(Meter_Time[ii] - Meter_Time[0])*1e-3 for ii in range(len(Meter_Time))]
+    #Experiment_Tt_Time = (Meter_Time[-1] - Meter_Time[0])*1.0e-3
+    #Experiment_Time = [(Meter_Time[ii] - Meter_Time[0])*1e-3 for ii in range(len(Meter_Time))]
     
     fig, axs = plt.subplots(3,1,figsize=(16,24), gridspec_kw={'height_ratios': [1, 1, 1]})
     
