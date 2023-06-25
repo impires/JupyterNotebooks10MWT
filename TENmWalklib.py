@@ -142,27 +142,27 @@ def accelerometer(exp_data):
     
     plt.show()
     
-    fig, axs = plt.subplots(3,1,figsize=(16,24), gridspec_kw={'height_ratios': [1, 1, 1]})
+    # fig, axs = plt.subplots(3,1,figsize=(16,24), gridspec_kw={'height_ratios': [1, 1, 1]})
     
-    axs[0].plot(Experiment_Time, [value[0] for value in Corrected_Accel], color="b")
-    axs[0].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][0] for j in Peeks_Loc], color="b")
-    axs[0].set_xlabel('t / s', fontsize="18")
-    axs[0].set_ylabel('$a_{x} / \\textrm{ms}^{-1}$', fontsize="18")
-    axs[0].set_title('Acceleration in xx direction', size='24', color='k')
-    axs[1].plot(Experiment_Time, [value[1] for value in Corrected_Accel], color="r")
-    axs[1].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][1] for j in Peeks_Loc], color="r")
-    axs[1].set_title('Acceleration in yy direction', size='24', color='k')
-    axs[1].set_xlabel('t / s', size="18")
-    axs[1].set_ylabel('$a_{y} / \\textrm{ms}^{-1}$', fontsize="18")
-    axs[2].plot(Experiment_Time, [value[2] for value in Corrected_Accel], color="g")
-    axs[2].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][2] for j in Peeks_Loc], color="g")
-    axs[2].set_title('Acceleration in zz direction', size='24', color='k')
-    axs[2].set_xlabel('t / s', size="18")
-    axs[2].set_ylabel('$a_{z} / \\textrm{ms}^{-1}$', fontsize="18")
+    # axs[0].plot(Experiment_Time, [value[0] for value in Corrected_Accel], color="b")
+    # axs[0].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][0] for j in Peeks_Loc], color="b")
+    # axs[0].set_xlabel('t / s', fontsize="18")
+    # axs[0].set_ylabel('$a_{x} / \\textrm{ms}^{-1}$', fontsize="18")
+    # axs[0].set_title('Acceleration in xx direction', size='24', color='k')
+    # axs[1].plot(Experiment_Time, [value[1] for value in Corrected_Accel], color="r")
+    # axs[1].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][1] for j in Peeks_Loc], color="r")
+    # axs[1].set_title('Acceleration in yy direction', size='24', color='k')
+    # axs[1].set_xlabel('t / s', size="18")
+    # axs[1].set_ylabel('$a_{y} / \\textrm{ms}^{-1}$', fontsize="18")
+    # axs[2].plot(Experiment_Time, [value[2] for value in Corrected_Accel], color="g")
+    # axs[2].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][2] for j in Peeks_Loc], color="g")
+    # axs[2].set_title('Acceleration in zz direction', size='24', color='k')
+    # axs[2].set_xlabel('t / s', size="18")
+    # axs[2].set_ylabel('$a_{z} / \\textrm{ms}^{-1}$', fontsize="18")
     
-    plt.savefig('AccelComp.png')
+    # plt.savefig('AccelComp.png')
 
-    plt.show()
+    # plt.show()
     
     return Position
 
@@ -193,27 +193,27 @@ def gyroscope(data):#, std_interval):
     #Experiment_Tt_Time = (Meter_Time[-1] - Meter_Time[0])*1.0e-3
     #Experiment_Time = [(Meter_Time[ii] - Meter_Time[0])*1e-3 for ii in range(len(Meter_Time))]
     
-    fig, axs = plt.subplots(3,1,figsize=(16,24), gridspec_kw={'height_ratios': [1, 1, 1]})
+    # fig, axs = plt.subplots(3,1,figsize=(16,24), gridspec_kw={'height_ratios': [1, 1, 1]})
     
-    axs[0].plot(Experiment_Time, [value[0] for value in AngVel], color="b")
-    #axs[0].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][0] for j in Peeks_Loc], color="b")
-    axs[0].set_xlabel('t / s', fontsize="18")
-    axs[0].set_ylabel('$\omega_{x} / \\textrm{rads}^{-1}$', fontsize="18")
-    axs[0].set_title('Rotation Velocity in xx direction', size='24', color='k')
-    axs[1].plot(Experiment_Time, [value[1] for value in AngVel], color="r")
-    #axs[1].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][1] for j in Peeks_Loc], color="r")
-    axs[1].set_title('Rotation Velocity in yy direction', size='24', color='k')
-    axs[1].set_xlabel('t / s', size="18")
-    axs[1].set_ylabel('$\omega_{y} / \\textrm{rads}^{-1}$', fontsize="18")
-    axs[2].plot(Experiment_Time, [value[2] for value in AngVel], color="g")
-    #axs[2].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][2] for j in Peeks_Loc], color="g")
-    axs[2].set_title('Rotation Velocity in zz direction', size='24', color='k')
-    axs[2].set_xlabel('t / s', size="18")
-    axs[2].set_ylabel('$\omega_{z} / \\textrm{rads}^{-1}$', fontsize="18")
+    # axs[0].plot(Experiment_Time, [value[0] for value in AngVel], color="b")
+    # #axs[0].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][0] for j in Peeks_Loc], color="b")
+    # axs[0].set_xlabel('t / s', fontsize="18")
+    # axs[0].set_ylabel('$\omega_{x} / \\textrm{rads}^{-1}$', fontsize="18")
+    # axs[0].set_title('Rotation Velocity in xx direction', size='24', color='k')
+    # axs[1].plot(Experiment_Time, [value[1] for value in AngVel], color="r")
+    # #axs[1].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][1] for j in Peeks_Loc], color="r")
+    # axs[1].set_title('Rotation Velocity in yy direction', size='24', color='k')
+    # axs[1].set_xlabel('t / s', size="18")
+    # axs[1].set_ylabel('$\omega_{y} / \\textrm{rads}^{-1}$', fontsize="18")
+    # axs[2].plot(Experiment_Time, [value[2] for value in AngVel], color="g")
+    # #axs[2].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][2] for j in Peeks_Loc], color="g")
+    # axs[2].set_title('Rotation Velocity in zz direction', size='24', color='k')
+    # axs[2].set_xlabel('t / s', size="18")
+    # axs[2].set_ylabel('$\omega_{z} / \\textrm{rads}^{-1}$', fontsize="18")
     
-    plt.savefig('AngVelComp.png')
+    # plt.savefig('AngVelComp.png')
 
-    plt.show()
+    # plt.show()
 
     # Extract the study interval period
 
@@ -275,27 +275,27 @@ def magnetometer(data):#, std_interval):
     #Experiment_Tt_Time = (Meter_Time[-1] - Meter_Time[0])*1.0e-3
     #Experiment_Time = [(Meter_Time[ii] - Meter_Time[0])*1e-3 for ii in range(len(Meter_Time))]
     
-    fig, axs = plt.subplots(3,1,figsize=(16,24), gridspec_kw={'height_ratios': [1, 1, 1]})
+    # fig, axs = plt.subplots(3,1,figsize=(16,24), gridspec_kw={'height_ratios': [1, 1, 1]})
     
-    axs[0].plot(Experiment_Time, [value[0] for value in MagFld], color="b")
-    #axs[0].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][0] for j in Peeks_Loc], color="b")
-    axs[0].set_xlabel('t / s', fontsize="18")
-    axs[0].set_ylabel('$\mu_{x} / \mu \\textrm{T}$', fontsize="18")
-    axs[0].set_title('Magnetic Field in xx direction', size='24', color='k')
-    axs[1].plot(Experiment_Time, [value[1] for value in MagFld], color="r")
-    #axs[1].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][1] for j in Peeks_Loc], color="r")
-    axs[1].set_title('Magnetic Field in yy direction', size='24', color='k')
-    axs[1].set_xlabel('t / s', size="18")
-    axs[1].set_ylabel('$\mu_{y} / \mu \\textrm{T}$', fontsize="18")
-    axs[2].plot(Experiment_Time, [value[2] for value in MagFld], color="g")
-    #axs[2].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][2] for j in Peeks_Loc], color="g")
-    axs[2].set_title('Magnetic Field in zz direction', size='24', color='k')
-    axs[2].set_xlabel('t / s', size="18")
-    axs[2].set_ylabel('$\mu_{z} / \mu \\textrm{T}$', fontsize="18")
+    # axs[0].plot(Experiment_Time, [value[0] for value in MagFld], color="b")
+    # #axs[0].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][0] for j in Peeks_Loc], color="b")
+    # axs[0].set_xlabel('t / s', fontsize="18")
+    # axs[0].set_ylabel('$\mu_{x} / \mu \\textrm{T}$', fontsize="18")
+    # axs[0].set_title('Magnetic Field in xx direction', size='24', color='k')
+    # axs[1].plot(Experiment_Time, [value[1] for value in MagFld], color="r")
+    # #axs[1].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][1] for j in Peeks_Loc], color="r")
+    # axs[1].set_title('Magnetic Field in yy direction', size='24', color='k')
+    # axs[1].set_xlabel('t / s', size="18")
+    # axs[1].set_ylabel('$\mu_{y} / \mu \\textrm{T}$', fontsize="18")
+    # axs[2].plot(Experiment_Time, [value[2] for value in MagFld], color="g")
+    # #axs[2].scatter([Experiment_Time[j] for j in Peeks_Loc], [Corrected_Accel[j][2] for j in Peeks_Loc], color="g")
+    # axs[2].set_title('Magnetic Field in zz direction', size='24', color='k')
+    # axs[2].set_xlabel('t / s', size="18")
+    # axs[2].set_ylabel('$\mu_{z} / \mu \\textrm{T}$', fontsize="18")
     
-    plt.savefig('MagFieldComp.png')
+    # plt.savefig('MagFieldComp.png')
 
-    plt.show()
+    # plt.show()
 
     # # Extract the study interval period
 
