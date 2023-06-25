@@ -133,7 +133,7 @@ def accelerometer(exp_data):
     # except st.StatisticsError:
     #     return [Experiment_Tt_Time, Num_Steps, '#N/A', '#N/A', '#N/A', '#N/A', '#N/A', '#N/A', ['#N/A', '#N/A']]
    
-    axs[0].scatter([Experiment_Time[j] for j in [Peeks_Loc[0], Peeks_Loc[-1]]], [Corrected_Accel_Int[j] for j in [Peeks_Loc[0], Peeks_Loc[-1]]], cmap='red')
+    axs[0].scatter([Experiment_Time[j] for j in [Peeks_Loc[0], Peeks_Loc[-1]]], [Corrected_Accel_Int[j] for j in [Peeks_Loc[0], Peeks_Loc[-1]]], color='red')
 
     #Acceleration = [vect_length(line) for line in Corrected_Accel]
     Speed = [vect_length(line) for line in Velocity[Peeks_Loc[0]:Peeks_Loc[-1]+1]]
